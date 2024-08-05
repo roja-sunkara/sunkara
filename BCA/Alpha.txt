@@ -1,0 +1,3 @@
+--> Git is version control system for tracking changes in computer files
+-->git is used for co ordinating work among several peope on a project and trackinh progress over time
+-->git is used for source code managemeny in software development 
